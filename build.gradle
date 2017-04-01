@@ -27,7 +27,7 @@ dependencies {
     compile 'org.slf4j:slf4j-simple:1.7.21'
     
     // Use selenium to run the crawler
-    compile 'org.seleniumhq.selenium:selenium-java:2.53.1'
+    compile 'org.seleniumhq.selenium:selenium-java:3.3.1'
     
     // Use mongodb java driver v3.3
     compile 'org.mongodb:mongodb-driver:3.3.0'
